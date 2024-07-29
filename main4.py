@@ -1,4 +1,4 @@
-# Developed by karan
+# Code by karan
 
 import cv2
 import mediapipe as mp
